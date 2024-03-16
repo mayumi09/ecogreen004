@@ -1,9 +1,8 @@
 package com.example.ecogreen004;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -14,7 +13,7 @@ public class MyFeedActivity extends AppCompatActivity {
 
     private RecyclerView postRecyclerView;
     private PostAdapter postAdapter;
-
+    //c 03
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
