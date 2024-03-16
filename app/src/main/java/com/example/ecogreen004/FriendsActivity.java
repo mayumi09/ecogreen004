@@ -28,7 +28,7 @@ public class FriendsActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_friends);
-
+//c04
         generateFriendsButton = findViewById(R.id.generateFriendsButton);
         friendsRecyclerView = findViewById(R.id.friendsRecyclerView);
 
