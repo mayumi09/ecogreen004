@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "538576121856",
+    "project_id": "ecogreen002-b61fb",
+    "storage_bucket": "ecogreen002-b61fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538576121856:android:3fc133c2417ce9f37028e5",
+        "android_client_info": {
+          "package_name": "com.example.ecogreen002"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNjtn94EwfYXq75JLBoYr96zqDi-JUSzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538576121856:android:b1f419473fe7e6a67028e5",
+        "android_client_info": {
+          "package_name": "com.example.ecogreen003"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNjtn94EwfYXq75JLBoYr96zqDi-JUSzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538576121856:android:10134a60d419f5a37028e5",
+        "android_client_info": {
+          "package_name": "com.example.ecogreen004"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNjtn94EwfYXq75JLBoYr96zqDi-JUSzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
